@@ -14,4 +14,7 @@ They are consisting mainly of six modules:-
 6- **Identity & Access Control**: Enforce Permissions and Privileges for a user, Responsible for the access control levels.
 
 Well-known frontend technology like ReactJS, TypeScript and WebSockets are used to form the external seeing of a webpage.<br/>
-It is consisting mainly of two webpages: Login and the Dashboard page itself.
+It is consisting mainly of two webpages: Login and the Dashboard page itself.<br/><br/>
+
+**Documentations and diagrams are provided in this repository.**<br/>
+For direct writers to this repository, do not push any changes on the main branch. Instead, you can open another branch and push it as you like.
