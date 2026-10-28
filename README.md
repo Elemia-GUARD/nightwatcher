@@ -14,6 +14,7 @@ They are consisting mainly of six modules:-
 6- **Identity & Access Control**: Enforce Permissions and Privileges for a user, Responsible for the access control levels.
 
 Well-known frontend technology like ReactJS, TypeScript and WebSockets are used to form the external seeing of a webpage.<br/>
+PostgreSQL, SQLite, MongoDB and other technologies can be used for the databases and efficient storage processes. The best combination and alignment for those is determined completely by the team of developers themselves.<br/>
 It is consisting mainly of two webpages: Login and the Dashboard page itself.<br/><br/>
 
 **Documentations and diagrams are provided in this repository.**<br/>
